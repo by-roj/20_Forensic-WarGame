@@ -4,7 +4,7 @@ Record the process of solving digital forensics wargames
 
 <br>
 
-### 1. STARTUP Disk Forensics](https://github.com/by-roj/20_Forensics-WarGame/blob/master/STARTUP_DiskForensics)
+### [1. STARTUP Disk Forensics](https://github.com/by-roj/20_Forensics-WarGame/blob/master/STARTUP_DiskForensics)
 
 ​		  ① [FAT32 partition](https://github.com/by-roj/20_Forensics-WarGame/blob/master/STARTUP_DiskForensics/FAT32_Partition.md)
 
