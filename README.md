@@ -1,4 +1,4 @@
-# Forensics-WarGame
+# Forensics WarGame
 
 Record the process of solving digital forensics wargames
 
